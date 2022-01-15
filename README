@@ -1,0 +1,1 @@
+This is a program that using pyaudio and pydub (you have to install) and socket can stream music from one computer to another.
